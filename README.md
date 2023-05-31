@@ -41,9 +41,11 @@ while True:
 
 ## OUTPUT :
 CLIENT:
+
 ![6cl](https://github.com/Vanisha0609/EX-9/assets/119104009/41299fef-3e4c-47d5-b5b7-b7de763b5c0c)
 
 SERVER:
+
 ![6s](https://github.com/Vanisha0609/EX-9/assets/119104009/f4558383-49cc-4f07-9138-68700c83ab84)
 
 
